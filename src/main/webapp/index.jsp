@@ -6,8 +6,8 @@
 </head>
 <body>
 
-<h1>Java Web Application</h1>
-<p>This will be a java BMI Calculator aplication soon</p>
+<h1>Java Web calculator</h1>
+<p>This will be a java BMI Calculator application soon</p>
 
 </body>
 </html>
